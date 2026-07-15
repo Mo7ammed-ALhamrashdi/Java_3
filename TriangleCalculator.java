@@ -58,7 +58,7 @@ public class TriangleCalculator {
             System.out.println("Side 3: " + side3);
             System.out.println("Area: " + area);
             System.out.println("Perimeter: " + perimeter);
-            System.out.println("Triangle Type: " + triangleType);
+            System.out.println("Trianglee Type: " + triangleType);
         }
 
         scanner.close();
