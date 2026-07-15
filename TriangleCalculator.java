@@ -2,7 +2,7 @@ package Java_3.java_3;
 import java.util.Scanner;
 public class TriangleCalculator {
     public static void main(String[] args) {
-        
+
         Scanner scanner = new Scanner(System.in);
         double base;
         double height;
