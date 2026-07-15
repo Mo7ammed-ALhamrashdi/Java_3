@@ -28,7 +28,7 @@ public class CircleCalculator {
             System.out.println("Medium Circle");
         }
         else {
-            System.out.println("Large Circle");
+            System.out.println("Largee Circle");
         }
 
         input.close();
