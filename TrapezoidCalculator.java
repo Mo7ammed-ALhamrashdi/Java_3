@@ -1,4 +1,4 @@
-package Java_3.java_3;
+package Java_Task_3;
 import java.util.Scanner;
 public class TrapezoidCalculator {
     public static void main(String[] args) {
