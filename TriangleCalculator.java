@@ -1,3 +1,4 @@
+package Java_Task_3;
 import java.util.Scanner;
 public class TriangleCalculator {
     public static void main(String[] args) {
