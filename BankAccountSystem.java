@@ -1,4 +1,4 @@
-package Java_3.java_3;
+package Java_Task_3;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -8,7 +8,7 @@ public class BankAccountSystem {
                                        List<String> customerNames,
                                        List<Double> balances) {
 
-        System.out.println("\n==== Account ..List ====");
+        System.out.println("\n==== Account List ====");
 
         for (int i = 0; i < accountNumbers.size(); i++) {
             System.out.println("Account Number : " + accountNumbers.get(i));
