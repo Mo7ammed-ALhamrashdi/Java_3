@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 package Java_Task_3;
-=======
-package Java_3.java_3;
->>>>>>> 0ef920394d216c48588a86ad42026627aa0b9444
 import java.util.Scanner;
 public class CircleCalculator {
     public static void main(String[] args) {
