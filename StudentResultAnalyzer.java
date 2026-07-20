@@ -1,5 +1,4 @@
 package Java_Task_3;
-
 public class StudentResultAnalyzer {
     public static boolean validateMarks(int mark1, int mark2, int mark3, int mark4, int mark5) {
         return (mark1 >= 0 && mark1 <= 100) &&
